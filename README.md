@@ -1,7 +1,7 @@
 # Hi there, Rahul Ranjan here! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-ranjanuajjwal22@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ranjanuajjwal22@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Rahul%ranjan-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/rahul-ranjan-ba3238196/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Rahul%20Ranjan-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/rahul-ranjan-ba3238196/ "Connect on LinkedIn")
 
 ---
 
